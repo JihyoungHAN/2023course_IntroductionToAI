@@ -1,7 +1,0 @@
-[CNN 모델 만들기]
-- https://www.dinolabs.ai/197
-- https://www.tensorflow.org/tutorials/keras/classification?hl=ko
-
-[validation set 추출하기] 
-- https://gooopy.tistory.com/88
-
